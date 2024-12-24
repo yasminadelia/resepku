@@ -30,3 +30,8 @@ flutter:
   assets:
     # Add assets from the images directory to the application.
     - assets/images/
+
+  fonts:
+    - family: DMSans
+      fonts:
+        - asset: assets/fonts/DM_Sans/DMSans-VariableFont_opsz,wght.ttf

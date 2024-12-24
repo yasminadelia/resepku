@@ -1,6 +1,6 @@
 {
-  "appTitle": "resepku",
+  "appTitle": "ResepKu",
   "@appTitle": {
-    "description": "The title of the application"
+    "description": "Aplikasi kumpulan resep masakan."
   }
 }
